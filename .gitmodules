@@ -1,0 +1,3 @@
+[submodule "Akavache"]
+	path = Akavache
+	url = git@github.com:github/Akavache.git
