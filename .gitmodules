@@ -1,3 +1,0 @@
-[submodule "Test-SubRepo"]
-	path = Test-SubRepo
-	url = https://github.com/octokitten/Test-SubRepo.git
